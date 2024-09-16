@@ -1,0 +1,7 @@
+hamed/
+.pytest_cache
+**__pycache__/
+db.sqllie3
+.env
+.coverage
+.vscode
