@@ -7,7 +7,13 @@ iniconfig==2.0.0
 openpyxl==3.1.5
 packaging==24.1
 pluggy==1.5.0
-pytest==8.3.3
+pytest==8.3.3 
 python-dotenv==1.0.1
 sqlparse==0.5.1
 tzdata==2024.1
+pytest-django==4.9.0
+black==24.8.0
+click==8.1.7
+mypy-extensions==1.0.0
+pathspec==0.12.1
+platformdirs==4.3.6
